@@ -26,9 +26,9 @@
 
 ### Data ###
 *.db
-*.csv
-*.tsv
-*.json
+# *.csv
+# *.tsv
+# *.json
 *.geojson
 *.dat
 *.efx
